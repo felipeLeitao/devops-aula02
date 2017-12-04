@@ -1,3 +1,0 @@
-GTA
-TINDER
-FIFA
