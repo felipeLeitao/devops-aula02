@@ -1,5 +1,6 @@
 # devops-aula02
 
-Leonardo Dicaprio
-Will Smith
-Pernalonga
+# Leonardo Dicaprio
+# Will Smith
+# Pernalonga
+# Patolino
